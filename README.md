@@ -11,3 +11,6 @@
 - Threads (`pthread`)
 - Mutex
 - Synchronisation et gestion du temps
+
+## Sujet du projet
+Vous pouvez consulter le sujet officiel ici : [📑 Sujet PDF](./philosophers.subject.pdf)
